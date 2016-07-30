@@ -1,2 +1,3 @@
-# gamenegine
-is for free game engine in c++ with opengl
+# Game Engine
+
+Para crear un Game Engine gratuito usando C++ y OpenGL
